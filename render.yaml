@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: wahyd4
+  env: docker
+  healthCheckPath: /
